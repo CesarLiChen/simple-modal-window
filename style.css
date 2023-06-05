@@ -5,7 +5,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: darkgray;
+    background: #8866da;
     line-height: 1.6;
     display: flex;
     height: 100vh;
@@ -73,7 +73,7 @@ body {
 }
 
 .close {
-    color: red;
+    color: rgba(255, 0, 0, 0.555);
     float: right;
     font-size: 30px;
 }
